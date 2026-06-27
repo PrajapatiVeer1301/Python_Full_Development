@@ -1,0 +1,6 @@
+{
+  "name": "Sneaker Store",
+  "description": "A polished, responsive sneaker store application featuring brand filtering, interactive size and color selectors, an integrated shopping cart, and mock checkout tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
